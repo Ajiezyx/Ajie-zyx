@@ -1,4 +1,4 @@
-cons express = require('express')
+const express = require('express')
 const path = require('path')
 const SocketIO = require('socket.io')
 const qrcode = require('qrcode')
