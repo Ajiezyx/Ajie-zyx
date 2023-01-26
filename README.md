@@ -1,8 +1,8 @@
-# Aine-MD
+# Ajie-zyx
 
 
 # NOTE
-*pihak team developer dan team aine tidak beroperasi kembali karena script ini di perjual belikan*
+*pihak team developer dan team ajie tidak beroperasi kembali karena script ini di perjual belikan*
 
 
 This script is free, if caught sold, this script will be deleted immediately.
@@ -10,8 +10,8 @@ Don't forget to follow my github
 
 Script ini gratis, Jika ketahuan di jual, Script ini akan langsung di hapus.
 Jangan lupa untuk mengikuti github ku
-* My WhatsApp [`Click Here`](https://wa.me/8801645461453?text=Assalamualaikum)
-* My Facebook [`Click Here`](https://facebook.com/ainneboot)
+* My WhatsApp [`Click Here`](https://wa.me/6289662933232?text=Assalamualaikum)
+* My Facebook [`Click Here`](https://facebook.com/ajie zyx)
 
 ## Viewer 👁️
 <p align="center"><img src="https://profile-counter.glitch.me/{Aiinne}/count.svg" alt="neoxr :: Visitor's Count" /></p>
@@ -74,7 +74,7 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ---------
 
-[ INSTALLING NODEJS & AINE-MD ]
+[ INSTALLING NODEJS & AJIE-ZYX ]
 
 ```bash
 ubuntu
