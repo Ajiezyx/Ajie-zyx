@@ -1,4 +1,4 @@
-const simpe = require('./lib/simple')
+const simple = require('./lib/simple')
 const util = require('util')
 const { color } = require('./lib/color')
 const moment = require("moment-timezone")
